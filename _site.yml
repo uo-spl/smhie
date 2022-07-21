@@ -1,0 +1,31 @@
+name: "Strengthening Mental Health in Education 2.0"
+navbar:
+  title: "SMHiE 2.0"
+  left:
+    - text: Home
+      href: index.html
+    - text: About
+      href: about.html
+    - text: Evaluation Plan
+      menu: 
+          - text: "Suicide Prevention"
+            href:
+          - text: "Resource Mapping"
+            href: 
+          - text: "Mental Health Literacy"
+            href: 
+      
+  right:
+    - text: Reports
+      menu:
+          - text: "Quarterly Report 1"
+          - text: "Quarterly Report 2"
+          - text: "Quarterly Report 3"
+          - text: "Quarterly Report 4"
+    - icon: fa-github
+      href: https://github.com/uo-spl/smhie
+
+output:
+  html_document:
+   lib_dir: site_libs
+   self_contained: no

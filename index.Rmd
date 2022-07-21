@@ -1,0 +1,15 @@
+---
+title: "Strengthening Mental Health in Education 2.0"
+subtitle: "Program Evaluation, University of Oregon"
+author: "TBD"
+
+site: distill::distill_website
+output:
+  html_document:
+    toc: TRUE
+    toc_depth: 2
+    toc_float: TRUE
+    theme: cosmo
+---
+
+This website is for disseminating evaluation reports and findings produced by the Suicide Prevention Lab at the University of Oregon.

@@ -1,0 +1,13 @@
+---
+title: "About this site"
+site: distill::distill_website
+output:
+  html_document:
+    toc: TRUE
+    toc_depth: 2
+    toc_float: TRUE
+    theme: cosmo
+---
+
+For more information about this project, please read the documentation at 
+https://www.oregon.gov/ode/students-and-family/equity/SchoolSafety/Pages/Strengthening-Mental-Health-in-Education.aspx.
