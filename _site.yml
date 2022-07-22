@@ -5,7 +5,9 @@ navbar:
     - text: Home
       href: index.html
     - text: About
-      href: about.html
+      menu: 
+          - text: "UO SPL"
+            href: about.html
     - text: Evaluation Plan
       menu: 
           - text: "Suicide Prevention"
@@ -14,7 +16,7 @@ navbar:
             href: 
           - text: "Mental Health Literacy"
             href: 
-      
+  
   right:
     - text: Reports
       menu:

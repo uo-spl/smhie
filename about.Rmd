@@ -1,5 +1,5 @@
 ---
-title: "About this site"
+title: "About the UO SPL"
 site: distill::distill_website
 output:
   html_document:
@@ -9,5 +9,6 @@ output:
     theme: cosmo
 ---
 
-For more information about this project, please read the documentation at 
-https://www.oregon.gov/ode/students-and-family/equity/SchoolSafety/Pages/Strengthening-Mental-Health-in-Education.aspx.
+The UO SPL is a cross-disciplinary research and evaluation lab that includes expertise from fields including suicide prevention, education, mental health, prevention science, public health, implementation science. In addition to these fields, the UO SPL is dedications to partnering with groups that have been historically marginalized (e.g., Black, Indigenous, People of Color, LGBTQIA+) and ensuring that all research and evaluation activities incorporate perspectives from a diverse group of key stakeholders.
+
+UO SPL members are trained to contribute to co-design and innovative solutions through partnering with practitioners, and have expertise in a range of quantitative and qualitative research methodologies.

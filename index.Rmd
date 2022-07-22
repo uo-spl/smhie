@@ -13,3 +13,6 @@ output:
 ---
 
 This website is for disseminating evaluation reports and findings produced by the Suicide Prevention Lab at the University of Oregon.
+
+For more information about this project, please read the documentation at 
+https://www.oregon.gov/ode/students-and-family/equity/SchoolSafety/Pages/Strengthening-Mental-Health-in-Education.aspx.
