@@ -1,4 +1,9 @@
-name: "Strengthening Mental Health in Education 2.0"
+name: "smhie-website"
+title: "Strengthening Mental Health in Education 2.0"
+description: |
+  Reporting SMHiE evaluation plan
+output_dir: "docs"
+
 navbar:
   title: "SMHiE 2.0"
   left:
@@ -24,7 +29,7 @@ navbar:
           - text: "Quarterly Report 2"
           - text: "Quarterly Report 3"
           - text: "Quarterly Report 4"
-    - icon: fa-github
+    - icon: fab fa-github
       href: https://github.com/uo-spl/smhie
 
 output:
