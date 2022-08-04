@@ -5,30 +5,37 @@ description: |
 output_dir: "docs"
 
 navbar:
-  title: "SMHiE 2.0"
+  title: "SMHiE 2.0 Evaluation"
   left:
     - text: Home
       href: index.html
-    - text: About
+    - text: About UO Evaluation
       menu: 
-          - text: "UO SPL"
+          - text: "UO Philosophy"
             href: about.html
-    - text: Evaluation Plan
+          - text: "UO Methodology"
+            href: 
+    - text: Needs Assessment
       menu: 
           - text: "Suicide Prevention"
             href:
-          - text: "Resource Mapping"
+          - text: "Behavioral Health Systems Equity"
             href: 
-          - text: "Mental Health Literacy"
+          - text: "System Mapping"
             href: 
+    - text: Classroom WISE
+    - text: Community Care Specialists & Coordinators
+      
   
   right:
-    - text: Reports
+    - text: Evaluation Reports
       menu:
-          - text: "Quarterly Report 1"
-          - text: "Quarterly Report 2"
-          - text: "Quarterly Report 3"
-          - text: "Quarterly Report 4"
+          - text: "Quarterly Reports"
+            href:
+          - text: "Interim Reports"
+            href:
+          - text: "Annual Reports"
+            href:
     - icon: fab fa-github
       href: https://github.com/uo-spl/smhie
 
